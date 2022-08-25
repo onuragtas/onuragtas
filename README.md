@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Onur Ağtaş</h1>
+<h1 align="center">Onur Ağtaş</h1>
 <h3 align="center">A backend developer from Turkey</h3>
+
+<a href="https://app.daily.dev/onuragtas"><img src="https://github.com/onuragtas/onuragtas/blob/master/devcard.svg" width="400" alt="Onur Ağtaş's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onuragtas" alt="onuragtas" /></a> </p>
 
